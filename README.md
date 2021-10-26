@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C++, Golang, Javascript e Python</strong>
+  🖥️ Linguagens: <strong>C++, Golang, Javascript e Python</strong>
 </p>
 
 <p align="left">
