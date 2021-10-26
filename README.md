@@ -12,3 +12,5 @@
 <p align="left">
   💼 Ferramentas: <strong>Vscode, Vim, Ambiente linux</strong>
 </p>
+
+[![card](https://github-readme-stats.vercel.app/api?username=kaiobatista&theme=default)](https://github.com/kaiobatista/)
