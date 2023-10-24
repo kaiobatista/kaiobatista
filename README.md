@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Not a profissional developer yet, learning and applying knowledge though.
+  Not a profissional developer yet, learning and applying knowledge though.<br>
+  I'm here to share some <del>useless</del> projects and ideas of mine.
 
   Currently using and exploring EndearvourOS.
 </p>
