@@ -5,7 +5,7 @@
   Not a profissional developer yet, learning and applying knowledge though.<br>
   I'm here to share some <del>useless</del> projects and ideas of mine.
 
-  Currently using and exploring EndearvourOS.
+  Currently using and exploring EndeavourOS.
 </p>
 
 <p align="left">
