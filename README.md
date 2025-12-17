@@ -2,14 +2,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Not a profissional developer yet, learning and applying knowledge though.<br>
+  Not a profissional developer, just an enthusiasticlearning and applying knowledge.<br>
   I'm here to share some <del>useless</del> projects and ideas of mine.
 
-  Currently using and exploring EndeavourOS.
+  Currently using and exploring Rust.
 </p>
 
 <p align="left">
-  🖥️ Programing Languages: <strong>C, C++, Golang, Javascript and Python</strong>
+  🖥️ Programing Languages: <strong>C, C++, Golang, Javascript, Python, Rust</strong>
 </p>
 
 <p align="left">
